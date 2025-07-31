@@ -1,0 +1,49 @@
+# Iris-Flower-Classification
+Machine learning project using Random Forest and KNN on Iris dataset
+
+# 🌸 Iris Flower Classification - ML Project
+
+This is a simple machine learning project that classifies iris flowers into three species based on sepal and petal measurements.  
+This project uses **Random Forest** and **K-Nearest Neighbors (KNN)** algorithms for classification.
+
+---
+
+## 📷 Preview
+![Project Preview](preview.png)
+
+---
+
+## 📊 Dataset Details
+- Dataset used: **Iris Dataset** from `sklearn.datasets`
+- Features:
+  - Sepal length
+  - Sepal width
+  - Petal length
+  - Petal width
+- Classes:
+  - Iris-setosa
+  - Iris-versicolor
+  - Iris-virginica
+
+---
+
+## 🛠️ Technologies Used
+- Python
+- Google Colab
+- scikit-learn
+- pandas, seaborn, matplotlib
+
+---
+
+## 🧠 Algorithms Applied
+- Random Forest
+- K-Nearest Neighbors (KNN)
+- Accuracy Evaluation
+- Confusion Matrix
+
+---
+
+## ✍️ Author
+- (Chakali Jhansi)](https://github.com/jhansi328)
+
+
